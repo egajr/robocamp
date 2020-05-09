@@ -1,0 +1,11 @@
+
+
+Como Anunciante
+/session para pegar o ID token de anúncio
+/dashboard para descobrir o ID do anúncio
+
+Como usuário que deseja alugar
+/session para pega o meu ID token de usuário
+/booking para solicitar um pedido de reserva
+    passo o id do anúncio na rota
+    passo o meu id de usuário no headers
